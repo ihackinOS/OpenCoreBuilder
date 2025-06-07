@@ -1,3 +1,5 @@
+<img src="https://github.com/ihackinOS/OpenCoreBuilder/blob/main/Logo.png" width="300">
+
 # 🚀 HACKINOS TOOLS
 
 ## 🧩 Introduction
