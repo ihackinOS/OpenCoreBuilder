@@ -67,7 +67,7 @@ We offer professional **Hackintosh Services** to help you:
 We're always ready to help! Reach out to us through any of the platforms below:
 
 - 🌐 **Website:** [www.hackinos.com](https://www.hackinos.com)
-- 🗣️**Discord:** [hackinOS Community](https://discord.gg/CX4H3tk4FM)
+- 🗣️ **Discord:** [hackinOS Community](https://discord.gg/CX4H3tk4FM)
 - 📘 **Facebook:** [facebook.com/hackinos](https://facebook.com/hackinos)
 - 💬 **Telegram:** [t.me/hackinos](https://t.me/hackinos)
 - 🟢 **WhatsApp:** [+84 931 79 89 00](https://wa.me/84931798900)
