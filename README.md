@@ -1,78 +1,86 @@
-<img src="https://github.com/ihackinOS/OpenCoreBuilder/blob/main/Logo.png" width="300">
+# HACKINOS TOOLS v1.0 - Professional Hackintosh EFI Builder
 
-# 🚀 HACKINOS TOOLS
+### ⚡ The Ultimate Hackintosh EFI Building Solution
 
-## 🧩 Introduction
+**HACKINOS TOOLS** is a professional, all-in-one desktop application designed to streamline the complex process of creating and managing Hackintosh EFI configurations. This tool brings enterprise-grade functionality to the Hackintosh community.
 
-**HACKINOS TOOLS** is a user-friendly graphical application designed to **automate the creation of EFI folders** for your Hackintosh system. Instead of manually finding and configuring multiple files, this tool helps you build a basic, ready-to-edit EFI structure with just a few clicks.
+### 🚀 Key Features
 
-Whether you’re a beginner or experienced **Hackintosher**, **HACKINOS TOOLS** simplifies the setup process and gets you up and running faster!
+#### 🛠️ **Intelligent EFI Builder**
 
-## ✨ Key Features
+- **One-Click EFI Creation**: Automatically generate complete EFI folders with proper structure
+- **Smart Kext Selection**: Choose from 50+ essential kexts organized by category (Required, Network, Wireless, Storage, Input, CPU, GPU, USB, SMC, Thunderbolt)
+- **Platform-Specific SSDTs**: Automatic SSDT generation for Intel, AMD, and HEDT platforms
+- **Real-time OpenCore Integration**: Always use the latest OpenCore versions with automatic downloads
 
-- 🔄 **Automatic Kext Downloads:** Fetches the latest versions of essential `kexts` from trusted GitHub repositories.
-- 📁 **Smart Organization:** Classifies selected kexts into logical groups — `Essential`, `Audio`, `Network`, `Input`, `Storage & System`.
-- ⚙️ **OpenCore Integration:** Downloads the latest `OpenCore` bootloader and critical files (Drivers, Tools, BOOT).
-- 🗂️ **Resource Management:** Includes necessary `fonts`, `images`, and `ACPI` automatically.
-- 🛠️ **Custom SSDT Generator:** Select your device type (`Laptop` / `Desktop`) and `CPU generation` to auto-fetch the proper `ACPI` files.
-- 🧹 **Auto File Filtering:** Cleans up unused ACPI files and filters `.efi` drivers and tools based on your settings.
-- 🌓 **Theme Switching:** Toggle between `Light` and `Dark` UI modes.
-- 📚 **Kext Information Tab:** View detailed info about popular kexts in a dedicated section.
+#### 🔄 **Advanced EFI Updater**
 
-## 🧪 How to Use
+- **Intelligent Version Detection**: Automatically detect current versions of OpenCore and kexts
+- **One-Click Updates**: Update OpenCore and all kexts to their latest versions simultaneously
+- **Smart Backup System**: Automatic EFI backup before updates with easy restoration
+- **Progress Tracking**: Real-time progress monitoring with detailed status updates
 
-1. ▶️ **Launch the App**  
-   Start the application.
+#### 👤 **Professional User Management**
 
-2. 🔧 **Select Kexts**  
-   In the **"🔧 Build EFI"** tab, choose `kexts` that match your hardware. Essential ones are selected by default.
+- **Admin Controls**: Comprehensive admin panel for user management
+- **Hardware Information**: Detailed system hardware analysis and reporting
 
-3. 🧩 **Choose SSDT**  
-   In the **"🧩 SSDT"** tab, select your **device type** and **CPU generation** to download matching ACPI files.
+#### 🎨 **Modern User Interface**
 
-4. 🚀 **Start Building**  
-   Click the **"🚀 Start Building EFI"** button. Enter the password `www.hackinOS.com` if prompted.  
-   Progress and status will be displayed in **"📊 Progress"** and **"Status"** areas.
+- **Responsive Design**: Adaptive layout that works on all screen sizes
+- **Dark/Light Themes**: Toggle between modern dark and light themes
+- **Real-time Progress**: Beautiful animated progress bars and status indicators
+- **Professional Styling**: Modern glass-morphism design with smooth animations
 
-5. ✅ **Done!**  
-   Your **EFI folder** will be created on your **Desktop**, ready to use or further customize.
+#### 🧬 **Platform Support**
 
-## 📌 Other Tabs
+- **Intel Processors**: Full support from Sandy Bridge to Arrow Lake (Desktop & Laptop)
+- **AMD Processors**: Complete support for Bulldozer, Jaguar, Ryzen, and Threadripper
+- **HEDT Platforms**: Specialized support for high-end desktop platforms
+- **Cross-Platform**: Works on Windows, macOS, and Linux
 
-- ⚡ **About:** Overview and app information.
-- 📚 **Kext Info:** Details and descriptions of major kexts.
-- 💰 **Hackintosh Services:** Discover our professional `Hackintosh` setup & support.
-- 🧰 **Tools:** Manage builds and view statistics
+### 📊 Supported Hardware
 
-## ⚠️ Important Notes
+#### **Intel Platforms**
 
-- The created EFI is **basic**. You may need to **customize `config.plist`** further to suit your hardware.
-- Always **back up** your current EFI before replacing it.
+- **Desktop**: Sandy Bridge → Arrow Lake (13 generations)
+- **Laptop**: Sandy Bridge → Ice Lake (11 generations)
+- **HEDT**: Nehalem → Cascade Lake-XW (8 generations)
 
-## 💻 About Hackintosh & Our Services
+#### **AMD Platforms**
 
-**Hackintosh** allows you to run macOS on non-Apple hardware. It’s powerful, cost-effective, and highly customizable — but it can also be complex.
+- **Desktop & Laptop**: Bulldozer, Jaguar, Ryzen, Threadripper
+- **Full Ryzen Support**: All Ryzen generations with optimized kexts
 
-We offer professional **Hackintosh Services** to help you:
+#### **Kext Library (50+ Kexts)**
 
-- Build a perfect EFI for your hardware 🧠
-- Optimize performance and stability ⚙️
-- Troubleshoot and maintain your system 🔧
-- Provide custom builds for workstations, laptops, and more 💼
+- **Required**: Lilu, VirtualSMC, WhateverGreen, AppleALC, USBToolBox
+- **Network**: IntelMausi, LucyRTL8125, AtherosE2200, RTL8111 drivers
+- **Wireless**: AirportBrcmFixup, IntelBluetoothFirmware, itlwm
+- **Storage**: NVMeFix, EmeraldSDHC, RealtekCardReaderFriend
+- **Input**: VoodooPS2, VoodooI2C, VoodooRMI, AlpsHID
+- **CPU**: CPUFriend, CpuTopologyRebuild, CpuTscSync
+- **GPU**: SMCRadeonSensors, WhateverGreen
+- **USB**: USBToolBox, OS-X-USB-Inject-All
+- **SMC**: SMCAMDProcessor, AsusSMC, YogaSMC
+- **Thunderbolt**: ThunderboltReset, ThunderboltPatcher
 
-✅ **Whether you're a developer, designer, or enthusiast, we can help you unlock the full potential of macOS on your PC.**
+### 🎯 Use Cases
 
-## 📞 Contact & Support
+#### **For Hackintosh Enthusiasts**
 
-We're always ready to help! Reach out to us through any of the platforms below:
+- Create EFI configurations in minutes instead of hours
+- Stay updated with the latest OpenCore and kext releases
+- Professional-grade tools for serious Hackintosh projects
 
-- 🌐 **Website:** [www.hackinos.com](https://www.hackinos.com)
-- 🗣️ **Discord:** [hackinOS Community](https://discord.gg/CX4H3tk4FM)
-- 📘 **Facebook:** [facebook.com/hackinos](https://facebook.com/hackinos)
-- 💬 **Telegram:** [t.me/hackinos](https://t.me/hackinos)
-- 🟢 **WhatsApp:** [+84 931 79 89 00](https://wa.me/84931798900)
-- 🔵 **Signal:** [+84 931 79 89 00](https://signal.me/#eu/_sLTZJKeYFYxYVotGIJDz2jkOTYHZ2tWHfIu3o-ni-rdCBhUDVBJxZGRrZzcxssK)
-- 🟡 **Zalo:** [+84 931 79 89 00](https://zalo.me/0931798900)
-- 📱 **Phone:** [+84 931 79 89 00](tel:+84931798900)
+#### **For System Administrators**
 
-📨 **Let’s make your Hackintosh journey smoother than ever!**
+- Manage multiple Hackintosh systems efficiently
+- Centralized user management and access control
+- Automated backup and update procedures
+
+#### **For Developers**
+
+- Test different EFI configurations quickly
+- Automated kext management and version control
+- Professional development environment for Hackintosh tools
