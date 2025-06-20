@@ -79,35 +79,16 @@ Unlike traditional Hackintosh tools that require specific hardware or OS, **HACK
 
 ## 📦 Kext Library (50+ included)
 
-### ✅ Required:
-Lilu, VirtualSMC, WhateverGreen, AppleALC, USBToolBox
-
-### 🌐 Network:
-IntelMausi, LucyRTL8125, AtherosE2200, RTL8111
-
-### 📶 Wireless:
-AirportBrcmFixup, IntelBluetoothFirmware, itlwm
-
-### 💾 Storage:
-NVMeFix, EmeraldSDHC, RealtekCardReaderFriend
-
-### ⌨️ Input:
-VoodooPS2, VoodooI2C, VoodooRMI, AlpsHID
-
-### 🧠 CPU:
-CPUFriend, CpuTopologyRebuild, CpuTscSync
-
-### 🎮 GPU:
-SMCRadeonSensors, WhateverGreen
-
-### 🔌 USB:
-USBToolBox, OS-X-USB-Inject-All
-
-### 💻 SMC:
-SMCAMDProcessor, AsusSMC, YogaSMC
-
-### ⚡ Thunderbolt:
-ThunderboltReset, ThunderboltPatcher
+- ✅ Required: Lilu, VirtualSMC, WhateverGreen, AppleALC, USBToolBox
+- 🌐 Network: IntelMausi, LucyRTL8125, AtherosE2200, RTL8111
+- 📶 Wireless: AirportBrcmFixup, IntelBluetoothFirmware, itlwm
+- 💾 Storage: NVMeFix, EmeraldSDHC, RealtekCardReaderFriend
+- ⌨️ Input: VoodooPS2, VoodooI2C, VoodooRMI, AlpsHID
+- 🧠 CPU: CPUFriend, CpuTopologyRebuild, CpuTscSync
+- 🎮 GPU: SMCRadeonSensors, WhateverGreen
+- 🔌 USB: USBToolBox, OS-X-USB-Inject-All
+- 💻 SMC: SMCAMDProcessor, AsusSMC, YogaSMC
+- ⚡ Thunderbolt: ThunderboltReset, ThunderboltPatcher
 
 ## 🎯 Use Cases
 
