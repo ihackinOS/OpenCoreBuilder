@@ -2,89 +2,127 @@
 
 https://www.youtube.com/watch?v=DVnrcPW15KM
 
-# HACKINOS TOOLS v1.0 - Professional Hackintosh EFI Builder
+# 🛠️ HACKINOS TOOLS v1.0 - Professional Hackintosh EFI Builder
 
-### ⚡ The Ultimate Hackintosh EFI Building Solution
+⚡ **The Ultimate Hackintosh EFI Building Solution**
 
-**HACKINOS TOOLS** is a professional, all-in-one desktop application designed to streamline the complex process of creating and managing Hackintosh EFI configurations. This tool brings enterprise-grade functionality to the Hackintosh community.
+**HACKINOS TOOLS** is a professional all-in-one desktop application designed to streamline the process of creating and managing Hackintosh EFI configurations. Built using modern Python and PySide6, this tool brings enterprise-grade functionality to the Hackintosh community.
 
-### 🚀 Key Features
+## 🎯 UNIQUE ADVANTAGE: Universal EFI Building
 
-#### 🛠️ **Intelligent EFI Builder**
+🚀 **BUILD EFI ON ANY SUPPORTED MACHINE - UNLIKE ANY OTHER TOOL!**
 
-- **One-Click EFI Creation**: Automatically generate complete EFI folders with proper structure
-- **Smart Kext Selection**: Choose from 50+ essential kexts organized by category (Required, Network, Wireless, Storage, Input, CPU, GPU, USB, SMC, Thunderbolt)
-- **Platform-Specific SSDTs**: Automatic SSDT generation for Intel, AMD, and HEDT platforms
-- **Real-time OpenCore Integration**: Always use the latest OpenCore versions with automatic downloads
+Unlike traditional Hackintosh tools that require specific hardware or OS, **HACKINOS TOOLS** lets you build EFI configurations on **ANY supported system** – whether on Windows, macOS, or Linux.
 
-#### 🔄 **Advanced EFI Updater**
+✅ Build Intel EFI while using an AMD machine  
+✅ Build AMD EFI while using an Intel machine  
+✅ Build EFI for any generation on any other generation  
+✅ Build EFI remotely – even without physical access to the machine
 
-- **Intelligent Version Detection**: Automatically detect current versions of OpenCore and kexts
-- **One-Click Updates**: Update OpenCore and all kexts to their latest versions simultaneously
-- **Smart Backup System**: Automatic EFI backup before updates with easy restoration
-- **Progress Tracking**: Real-time progress monitoring with detailed status updates
+💥 This is a **game-changing** feature that sets it apart from all other tools!
 
-#### 👤 **Professional User Management**
+## 🚀 Key Features
 
-- **Admin Controls**: Comprehensive admin panel for user management
-- **Hardware Information**: Detailed system hardware analysis and reporting
+### 🛠️ Intelligent EFI Builder
 
-#### 🎨 **Modern User Interface**
+- **One-Click EFI Creation**: Automatically generate a complete EFI folder with proper structure
+- **Smart Kext Selection**: Choose from over **50 essential kexts** organized by category:
+  - Required, Network, Wireless, Storage, Input, CPU, GPU, USB, SMC, Thunderbolt
+- **Platform-Specific SSDTs**: Automatically generate SSDTs for Intel, AMD, and HEDT
+- **Real-time OpenCore Integration**: Always use the latest OpenCore versions automatically
 
-- **Responsive Design**: Adaptive layout that works on all screen sizes
-- **Dark/Light Themes**: Toggle between modern dark and light themes
-- **Real-time Progress**: Beautiful animated progress bars and status indicators
-- **Professional Styling**: Modern glass-morphism design with smooth animations
+🆕 **UNIVERSAL BUILDING**: Build EFI for **any supported platform from any machine**
 
-#### 🧬 **Platform Support**
+### 🔄 Advanced EFI Updater
 
-- **Intel Processors**: Full support from Sandy Bridge to Arrow Lake (Desktop & Laptop)
-- **AMD Processors**: Complete support for Bulldozer, Jaguar, Ryzen, and Threadripper
-- **HEDT Platforms**: Specialized support for high-end desktop platforms
-- **Cross-Platform**: Works on Windows, macOS, and Linux
+- **Version Detection**: Auto-detect installed OpenCore and kext versions
+- **One-Click Update**: Update OpenCore and all kexts simultaneously
+- **Backup System**: Automatically backup EFI before updating
+- **Progress Tracking**: Monitor real-time progress with detailed logs
 
-### 📊 Supported Hardware
+### 👤 Professional User Management
+- **Admin Controls**: Admin panel for user & usage management
+- **Hardware Info**: Detailed system hardware analysis
 
-#### **Intel Platforms**
+### 🎨 Modern User Interface
 
-- **Desktop**: Sandy Bridge → Arrow Lake (13 generations)
-- **Laptop**: Sandy Bridge → Ice Lake (11 generations)
-- **HEDT**: Nehalem → Cascade Lake-XW (8 generations)
+- **Responsive Design**: Scales to all screen sizes
+- **Dark/Light Themes**: Toggle modern themes
+- **Live Status**: Animated progress indicators
+- **Professional Aesthetics**: Glass-morphism UI with smooth animations
 
-#### **AMD Platforms**
+## 🧬 Platform Support
 
-- **Desktop & Laptop**: Bulldozer, Jaguar, Ryzen, Threadripper
-- **Full Ryzen Support**: All Ryzen generations with optimized kexts
+### ✅ Intel Processors:
+- Desktop: Sandy Bridge → Arrow Lake (13 generations)
+- Laptop: Sandy Bridge → Ice Lake (11 generations)
+- HEDT: Nehalem → Cascade Lake-XW (8 generations)
 
-#### **Kext Library (50+ Kexts)**
+### ✅ AMD Processors:
+- Bulldozer, Jaguar, Ryzen, Threadripper (all generations)
 
-- **Required**: Lilu, VirtualSMC, WhateverGreen, AppleALC, USBToolBox
-- **Network**: IntelMausi, LucyRTL8125, AtherosE2200, RTL8111 drivers
-- **Wireless**: AirportBrcmFixup, IntelBluetoothFirmware, itlwm
-- **Storage**: NVMeFix, EmeraldSDHC, RealtekCardReaderFriend
-- **Input**: VoodooPS2, VoodooI2C, VoodooRMI, AlpsHID
-- **CPU**: CPUFriend, CpuTopologyRebuild, CpuTscSync
-- **GPU**: SMCRadeonSensors, WhateverGreen
-- **USB**: USBToolBox, OS-X-USB-Inject-All
-- **SMC**: SMCAMDProcessor, AsusSMC, YogaSMC
-- **Thunderbolt**: ThunderboltReset, ThunderboltPatcher
+🆕 **UNIVERSAL COMPATIBILITY**: Build for any platform from any OS
 
-### 🎯 Use Cases
+## 🔧 Technical Excellence
 
-#### **For Hackintosh Enthusiasts**
+### 🔐 Security & Reliability
+- **Error Handling**: Comprehensive error recovery system
+- **Logging**: Full logging for debugging
 
-- Create EFI configurations in minutes instead of hours
-- Stay updated with the latest OpenCore and kext releases
-- Professional-grade tools for serious Hackintosh projects
+### 🚀 Performance Optimizations
+- **Multi-threading**: Background tasks for smooth UI
+- **Caching**: Intelligent cache system
+- **Memory Management**: Efficient usage and cleanup
+- **Optimized Networking**: Fast downloads with progress display
 
-#### **For System Administrators**
+## 📦 Kext Library (50+ included)
 
+### ✅ Required:
+Lilu, VirtualSMC, WhateverGreen, AppleALC, USBToolBox
+
+### 🌐 Network:
+IntelMausi, LucyRTL8125, AtherosE2200, RTL8111
+
+### 📶 Wireless:
+AirportBrcmFixup, IntelBluetoothFirmware, itlwm
+
+### 💾 Storage:
+NVMeFix, EmeraldSDHC, RealtekCardReaderFriend
+
+### ⌨️ Input:
+VoodooPS2, VoodooI2C, VoodooRMI, AlpsHID
+
+### 🧠 CPU:
+CPUFriend, CpuTopologyRebuild, CpuTscSync
+
+### 🎮 GPU:
+SMCRadeonSensors, WhateverGreen
+
+### 🔌 USB:
+USBToolBox, OS-X-USB-Inject-All
+
+### 💻 SMC:
+SMCAMDProcessor, AsusSMC, YogaSMC
+
+### ⚡ Thunderbolt:
+ThunderboltReset, ThunderboltPatcher
+
+## 🎯 Use Cases
+
+### 👨‍💻 For Hackintosh Enthusiasts
+- Create EFI configs in minutes instead of hours
+- Stay updated with the latest OpenCore & kext releases
+- Enterprise tools for serious Hackintoshers  
+🆕 **Build EFI for any machine from any platform**
+
+### 🧑‍🔧 For System Administrators
 - Manage multiple Hackintosh systems efficiently
-- Centralized user management and access control
-- Automated backup and update procedures
+- Centralized user management & access control
+- Automated EFI backup and updates  
+🆕 **Remotely build EFI for client machines**
 
-#### **For Developers**
-
-- Test different EFI configurations quickly
-- Automated kext management and version control
-- Professional development environment for Hackintosh tools
+### 👨‍💻 For Developers
+- Quickly test EFI configurations
+- Auto-manage kext versions and updates
+- Build, test, and deploy cross-platform  
+🆕 **Cross-platform EFI testing and dev-ready**
