@@ -1,6 +1,8 @@
 ![](https://github.com/ihackinOS/OpenCoreBuilder/blob/main/1.png)
 
-https://www.youtube.com/watch?v=DVnrcPW15KM
+- https://www.youtube.com/watch?v=DVnrcPW15KM
+- https://www.facebook.com/groups/hackinosautotool
+- https://discord.gg/CX4H3tk4FM
 
 # 🛠️ HACKINOS TOOLS v1.0 - Professional Hackintosh EFI Builder
 
