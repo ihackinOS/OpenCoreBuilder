@@ -109,3 +109,26 @@ Unlike traditional Hackintosh tools that require specific hardware or OS, **HACK
 - Auto-manage kext versions and updates
 - Build, test, and deploy cross-platform  
 🆕 **Cross-platform EFI testing and dev-ready**
+
+## 💼 Professional Hackintosh Services
+
+Need expert help with your Hackintosh? We offer:
+
+- ✅ Custom EFI builds tailored to your hardware
+- ⚙️ Performance optimization and system tuning
+- 🛠️ Troubleshooting and long-term maintenance
+- 💼 Specialized Hackintosh builds for:
+  - Developers
+  - Designers / Video editors
+  - Office & Workstation setups
+
+## 📞 Contact & Support
+
+We’re always ready to help!  
+Reach out to us through any of the following platforms:
+
+- 🌐 Website: [www.hackinos.com](https://www.hackinos.com)
+- 🗣️ Discord: [hackinOS Community](https://discord.gg/CX4H3tk4FM)
+- 📘 Facebook: [facebook.com/hackinos](https://facebook.com/hackinos)
+- 💬 Telegram: [t.me/hackinos](https://t.me/hackinos)
+- 📱 Zalo / WhatsApp / Signal / Phone: **+84 931 79 89 00**
