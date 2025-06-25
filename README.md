@@ -130,5 +130,6 @@ Reach out to us through any of the following platforms:
 - 🌐 Website: [www.hackinos.com](https://www.hackinos.com)
 - 🗣️ Discord: [hackinOS Community](https://discord.gg/CX4H3tk4FM)
 - 📘 Facebook: [facebook.com/hackinos](https://facebook.com/hackinos)
+- 📘 Facebook Group: [facebook.com/groups/hackinosautotool](https://facebook.com/groups/hackinosautotool)
 - 💬 Telegram: [t.me/hackinos](https://t.me/hackinos)
 - 📱 Zalo / WhatsApp / Signal / Phone: **+84 931 79 89 00**
